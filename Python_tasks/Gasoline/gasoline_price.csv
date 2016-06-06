@@ -1,0 +1,270 @@
+Date,Area Type,Area,Product,Price
+05/02/16,US,U.S.,All Grades - Conventional Areas,2.271
+05/02/16,US,East Coast (PADD1),All Grades - Conventional Areas,2.353
+05/02/16,US,New England (PADD 1A),All Grades - Conventional Areas,2.375
+05/02/16,US,Central Atlantic (PADD 1B),All Grades - Conventional Areas,2.474
+05/02/16,US,Lower Atlantic (PADD 1C),All Grades - Conventional Areas,2.314
+05/02/16,US,Midwest (PADD 2),All Grades - Conventional Areas,2.243
+05/02/16,US,Gulf Coast (PADD 3),All Grades - Conventional Areas,2.109
+05/02/16,US,Rocky Mountain (PADD 4),All Grades - Conventional Areas,2.257
+05/02/16,US,West Coast (PADD 5),All Grades - Conventional Areas,2.432
+05/02/16,US,West Coast less California,All Grades - Conventional Areas,2.432
+05/02/16,State,Colorado,All Grades - Conventional Areas,2.199
+05/02/16,State,Florida,All Grades - Conventional Areas,2.327
+05/02/16,State,Minnesota,All Grades - Conventional Areas,2.174
+05/02/16,State,New York,All Grades - Conventional Areas,2.404
+05/02/16,State,Ohio,All Grades - Conventional Areas,2.402
+05/02/16,State,Texas,All Grades - Conventional Areas,2.087
+05/02/16,State,Washington,All Grades - Conventional Areas,2.453
+05/02/16,City,Cleveland,All Grades - Conventional Areas,2.428
+05/02/16,City,Denver,All Grades - Conventional Areas,2.198
+05/02/16,City,Miami,All Grades - Conventional Areas,2.531
+05/02/16,City,Seattle,All Grades - Conventional Areas,2.447
+05/02/16,US,U.S.,Midgrade - Conventional Areas,2.404
+05/02/16,US,East Coast (PADD1),Midgrade - Conventional Areas,2.464
+05/02/16,US,New England (PADD 1A),Midgrade - Conventional Areas,2.494
+05/02/16,US,Central Atlantic (PADD 1B),Midgrade - Conventional Areas,2.584
+05/02/16,US,Lower Atlantic (PADD 1C),Midgrade - Conventional Areas,2.433
+05/02/16,US,Midwest (PADD 2),Midgrade - Conventional Areas,2.397
+05/02/16,US,Gulf Coast (PADD 3),Midgrade - Conventional Areas,2.227
+05/02/16,US,Rocky Mountain (PADD 4),Midgrade - Conventional Areas,2.388
+05/02/16,US,West Coast (PADD 5),Midgrade - Conventional Areas,2.561
+05/02/16,US,West Coast less California,Midgrade - Conventional Areas,2.561
+05/02/16,State,Colorado,Midgrade - Conventional Areas,2.354
+05/02/16,State,Florida,Midgrade - Conventional Areas,2.441
+05/02/16,State,Minnesota,Midgrade - Conventional Areas,2.250
+05/02/16,State,New York,Midgrade - Conventional Areas,2.508
+05/02/16,State,Ohio,Midgrade - Conventional Areas,2.526
+05/02/16,State,Texas,Midgrade - Conventional Areas,2.213
+05/02/16,State,Washington,Midgrade - Conventional Areas,2.580
+05/02/16,City,Cleveland,Midgrade - Conventional Areas,2.577
+05/02/16,City,Denver,Midgrade - Conventional Areas,2.367
+05/02/16,City,Miami,Midgrade - Conventional Areas,2.687
+05/02/16,City,Seattle,Midgrade - Conventional Areas,2.557
+05/02/16,US,U.S.,Premium,2.693
+05/02/16,US,East Coast (PADD1),Premium,2.703
+05/02/16,US,New England (PADD 1A),Premium,2.673
+05/02/16,US,Central Atlantic (PADD 1B),Premium,2.717
+05/02/16,US,Lower Atlantic (PADD 1C),Premium,2.699
+05/02/16,US,Midwest (PADD 2),Premium,2.673
+05/02/16,US,Gulf Coast (PADD 3),Premium,2.472
+05/02/16,US,Rocky Mountain (PADD 4),Premium,2.582
+05/02/16,US,West Coast (PADD 5),Premium,2.937
+05/02/16,US,West Coast less California,Premium,2.688
+05/02/16,State,California,Premium,3.052
+05/02/16,State,Colorado,Premium,2.601
+05/02/16,State,Florida,Premium,2.676
+05/02/16,State,Massachusetts,Premium,2.607
+05/02/16,State,Minnesota,Premium,2.460
+05/02/16,State,New York,Premium,2.742
+05/02/16,State,Ohio,Premium,2.775
+05/02/16,State,Texas,Premium,2.433
+05/02/16,State,Washington,Premium,2.725
+05/02/16,City,Boston,Premium,2.615
+05/02/16,City,Chicago,Premium,3.080
+05/02/16,City,Cleveland,Premium,2.847
+05/02/16,City,Denver,Premium,2.620
+05/02/16,City,Houston,Premium,2.474
+05/02/16,City,Los Angeles,Premium,3.083
+05/02/16,City,Miami,Premium,2.942
+05/02/16,City,New York City,Premium,2.652
+05/02/16,City,San Francisco,Premium,3.101
+05/02/16,City,Seattle,Premium,2.668
+05/02/16,US,U.S.,Ultra Low Sulfur Diesel,2.266
+05/02/16,US,East Coast (PADD1),Ultra Low Sulfur Diesel,2.306
+05/02/16,US,New England (PADD 1A),Ultra Low Sulfur Diesel,2.334
+05/02/16,US,Central Atlantic (PADD 1B),Ultra Low Sulfur Diesel,2.396
+05/02/16,US,Lower Atlantic (PADD 1C),Ultra Low Sulfur Diesel,2.232
+05/02/16,US,Midwest (PADD 2),Ultra Low Sulfur Diesel,2.232
+05/02/16,US,Gulf Coast (PADD 3),Ultra Low Sulfur Diesel,2.137
+05/02/16,US,Rocky Mountain (PADD 4),Ultra Low Sulfur Diesel,2.255
+05/02/16,US,West Coast (PADD 5),Ultra Low Sulfur Diesel,2.481
+05/02/16,US,West Coast less California,Ultra Low Sulfur Diesel,2.357
+05/02/16,State,California,Ultra Low Sulfur Diesel,2.579
+05/02/16,US,U.S.,Midgrade - Reformulated Areas,2.633
+05/02/16,US,East Coast (PADD1),Midgrade - Reformulated Areas,2.478
+05/02/16,US,New England (PADD 1A),Midgrade - Reformulated Areas,2.460
+05/02/16,US,Central Atlantic (PADD 1B),Midgrade - Reformulated Areas,2.502
+05/02/16,US,Lower Atlantic (PADD 1C),Midgrade - Reformulated Areas,2.408
+05/02/16,US,Midwest (PADD 2),Midgrade - Reformulated Areas,2.626
+05/02/16,US,Gulf Coast (PADD 3),Midgrade - Reformulated Areas,2.212
+05/02/16,US,West Coast (PADD 5),Midgrade - Reformulated Areas,2.899
+05/02/16,US,West Coast less California,Midgrade - Reformulated Areas,2.400
+05/02/16,State,California,Midgrade - Reformulated Areas,2.935
+05/02/16,State,Massachusetts,Midgrade - Reformulated Areas,2.411
+05/02/16,State,New York,Midgrade - Reformulated Areas,2.590
+05/02/16,State,Texas,Midgrade - Reformulated Areas,2.212
+05/02/16,City,Boston,Midgrade - Reformulated Areas,2.411
+05/02/16,City,Chicago,Midgrade - Reformulated Areas,2.750
+05/02/16,City,Houston,Midgrade - Reformulated Areas,2.210
+05/02/16,City,Los Angeles,Midgrade - Reformulated Areas,2.983
+05/02/16,City,New York City,Midgrade - Reformulated Areas,2.469
+05/02/16,City,San Francisco,Midgrade - Reformulated Areas,2.989
+05/02/16,US,U.S.,Regular - Reformulated Areas,2.391
+05/02/16,US,East Coast (PADD1),Regular - Reformulated Areas,2.209
+05/02/16,US,New England (PADD 1A),Regular - Reformulated Areas,2.241
+05/02/16,US,Central Atlantic (PADD 1B),Regular - Reformulated Areas,2.216
+05/02/16,US,Lower Atlantic (PADD 1C),Regular - Reformulated Areas,2.080
+05/02/16,US,Midwest (PADD 2),Regular - Reformulated Areas,2.328
+05/02/16,US,Gulf Coast (PADD 3),Regular - Reformulated Areas,1.959
+05/02/16,US,West Coast (PADD 5),Regular - Reformulated Areas,2.751
+05/02/16,US,West Coast less California,Regular - Reformulated Areas,2.162
+05/02/16,State,California,Regular - Reformulated Areas,2.809
+05/02/16,State,Massachusetts,Regular - Reformulated Areas,2.214
+05/02/16,State,New York,Regular - Reformulated Areas,2.335
+05/02/16,State,Texas,Regular - Reformulated Areas,1.959
+05/02/16,City,Boston,Regular - Reformulated Areas,2.211
+05/02/16,City,Chicago,Regular - Reformulated Areas,2.439
+05/02/16,City,Houston,Regular - Reformulated Areas,1.934
+05/02/16,City,Los Angeles,Regular - Reformulated Areas,2.879
+05/02/16,City,New York City,Regular - Reformulated Areas,2.196
+05/02/16,City,San Francisco,Regular - Reformulated Areas,2.851
+05/02/16,US,U.S.,Premium - Reformulated Areas,2.778
+05/02/16,US,East Coast (PADD1),Premium - Reformulated Areas,2.671
+05/02/16,US,New England (PADD 1A),Premium - Reformulated Areas,2.667
+05/02/16,US,Central Atlantic (PADD 1B),Premium - Reformulated Areas,2.675
+05/02/16,US,Lower Atlantic (PADD 1C),Premium - Reformulated Areas,2.657
+05/02/16,US,Midwest (PADD 2),Premium - Reformulated Areas,2.920
+05/02/16,US,Gulf Coast (PADD 3),Premium - Reformulated Areas,2.435
+05/02/16,US,West Coast (PADD 5),Premium - Reformulated Areas,3.019
+05/02/16,US,West Coast less California,Premium - Reformulated Areas,2.631
+05/02/16,State,California,Premium - Reformulated Areas,3.052
+05/02/16,State,Massachusetts,Premium - Reformulated Areas,2.607
+05/02/16,State,New York,Premium - Reformulated Areas,2.769
+05/02/16,State,Texas,Premium - Reformulated Areas,2.435
+05/02/16,City,Boston,Premium - Reformulated Areas,2.615
+05/02/16,City,Chicago,Premium - Reformulated Areas,3.080
+05/02/16,City,Houston,Premium - Reformulated Areas,2.474
+05/02/16,City,Los Angeles,Premium - Reformulated Areas,3.083
+05/02/16,City,New York City,Premium - Reformulated Areas,2.652
+05/02/16,City,San Francisco,Premium - Reformulated Areas,3.101
+05/02/16,US,U.S.,Regular,2.240
+05/02/16,US,East Coast (PADD1),Regular,2.215
+05/02/16,US,New England (PADD 1A),Regular,2.250
+05/02/16,US,Central Atlantic (PADD 1B),Regular,2.269
+05/02/16,US,Lower Atlantic (PADD 1C),Regular,2.163
+05/02/16,US,Midwest (PADD 2),Regular,2.183
+05/02/16,US,Gulf Coast (PADD 3),Regular,1.995
+05/02/16,US,Rocky Mountain (PADD 4),Regular,2.167
+05/02/16,US,West Coast (PADD 5),Regular,2.635
+05/02/16,US,West Coast less California,Regular,2.334
+05/02/16,State,California,Regular,2.809
+05/02/16,State,Colorado,Regular,2.098
+05/02/16,State,Florida,Regular,2.195
+05/02/16,State,Massachusetts,Regular,2.214
+05/02/16,State,Minnesota,Regular,2.116
+05/02/16,State,New York,Regular,2.317
+05/02/16,State,Ohio,Regular,2.300
+05/02/16,State,Texas,Regular,1.984
+05/02/16,State,Washington,Regular,2.387
+05/02/16,City,Boston,Regular,2.211
+05/02/16,City,Chicago,Regular,2.439
+05/02/16,City,Cleveland,Regular,2.313
+05/02/16,City,Denver,Regular,2.089
+05/02/16,City,Houston,Regular,1.934
+05/02/16,City,Los Angeles,Regular,2.879
+05/02/16,City,Miami,Regular,2.371
+05/02/16,City,New York City,Regular,2.196
+05/02/16,City,San Francisco,Regular,2.851
+05/02/16,City,Seattle,Regular,2.393
+05/02/16,US,U.S.,All Grades - Reformulated Areas,2.487
+05/02/16,US,East Coast (PADD1),All Grades - Reformulated Areas,2.336
+05/02/16,US,New England (PADD 1A),All Grades - Reformulated Areas,2.337
+05/02/16,US,Central Atlantic (PADD 1B),All Grades - Reformulated Areas,2.353
+05/02/16,US,Lower Atlantic (PADD 1C),All Grades - Reformulated Areas,2.239
+05/02/16,US,Midwest (PADD 2),All Grades - Reformulated Areas,2.432
+05/02/16,US,Gulf Coast (PADD 3),All Grades - Reformulated Areas,2.065
+05/02/16,US,West Coast (PADD 5),All Grades - Reformulated Areas,2.812
+05/02/16,US,West Coast less California,All Grades - Reformulated Areas,2.252
+05/02/16,State,California,All Grades - Reformulated Areas,2.864
+05/02/16,State,Massachusetts,All Grades - Reformulated Areas,2.310
+05/02/16,State,New York,All Grades - Reformulated Areas,2.461
+05/02/16,State,Texas,All Grades - Reformulated Areas,2.065
+05/02/16,City,Boston,All Grades - Reformulated Areas,2.305
+05/02/16,City,Chicago,All Grades - Reformulated Areas,2.558
+05/02/16,City,Houston,All Grades - Reformulated Areas,2.059
+05/02/16,City,Los Angeles,All Grades - Reformulated Areas,2.928
+05/02/16,City,New York City,All Grades - Reformulated Areas,2.324
+05/02/16,City,San Francisco,All Grades - Reformulated Areas,2.908
+05/02/16,US,U.S.,Diesel - All Types,2.266
+05/02/16,US,East Coast (PADD1),Diesel - All Types,2.306
+05/02/16,US,New England (PADD 1A),Diesel - All Types,2.334
+05/02/16,US,Central Atlantic (PADD 1B),Diesel - All Types,2.396
+05/02/16,US,Lower Atlantic (PADD 1C),Diesel - All Types,2.232
+05/02/16,US,Midwest (PADD 2),Diesel - All Types,2.232
+05/02/16,US,Gulf Coast (PADD 3),Diesel - All Types,2.137
+05/02/16,US,Rocky Mountain (PADD 4),Diesel - All Types,2.255
+05/02/16,US,West Coast (PADD 5),Diesel - All Types,2.481
+05/02/16,US,West Coast less California,Diesel - All Types,2.357
+05/02/16,State,California,Diesel - All Types,2.579
+05/02/16,US,U.S.,Premium - Conventional Areas,2.647
+05/02/16,US,East Coast (PADD1),Premium - Conventional Areas,2.724
+05/02/16,US,New England (PADD 1A),Premium - Conventional Areas,2.695
+05/02/16,US,Central Atlantic (PADD 1B),Premium - Conventional Areas,2.790
+05/02/16,US,Lower Atlantic (PADD 1C),Premium - Conventional Areas,2.703
+05/02/16,US,Midwest (PADD 2),Premium - Conventional Areas,2.634
+05/02/16,US,Gulf Coast (PADD 3),Premium - Conventional Areas,2.484
+05/02/16,US,Rocky Mountain (PADD 4),Premium - Conventional Areas,2.582
+05/02/16,US,West Coast (PADD 5),Premium - Conventional Areas,2.701
+05/02/16,US,West Coast less California,Premium - Conventional Areas,2.701
+05/02/16,State,Colorado,Premium - Conventional Areas,2.601
+05/02/16,State,Florida,Premium - Conventional Areas,2.676
+05/02/16,State,Minnesota,Premium - Conventional Areas,2.460
+05/02/16,State,New York,Premium - Conventional Areas,2.709
+05/02/16,State,Ohio,Premium - Conventional Areas,2.775
+05/02/16,State,Texas,Premium - Conventional Areas,2.431
+05/02/16,State,Washington,Premium - Conventional Areas,2.725
+05/02/16,City,Cleveland,Premium - Conventional Areas,2.847
+05/02/16,City,Denver,Premium - Conventional Areas,2.620
+05/02/16,City,Miami,Premium - Conventional Areas,2.942
+05/02/16,City,Seattle,Premium - Conventional Areas,2.668
+05/02/16,US,U.S.,Midgrade,2.482
+05/02/16,US,East Coast (PADD1),Midgrade,2.469
+05/02/16,US,New England (PADD 1A),Midgrade,2.466
+05/02/16,US,Central Atlantic (PADD 1B),Midgrade,2.532
+05/02/16,US,Lower Atlantic (PADD 1C),Midgrade,2.431
+05/02/16,US,Midwest (PADD 2),Midgrade,2.427
+05/02/16,US,Gulf Coast (PADD 3),Midgrade,2.224
+05/02/16,US,Rocky Mountain (PADD 4),Midgrade,2.388
+05/02/16,US,West Coast (PADD 5),Midgrade,2.820
+05/02/16,US,West Coast less California,Midgrade,2.532
+05/02/16,State,California,Midgrade,2.935
+05/02/16,State,Colorado,Midgrade,2.354
+05/02/16,State,Florida,Midgrade,2.441
+05/02/16,State,Massachusetts,Midgrade,2.411
+05/02/16,State,Minnesota,Midgrade,2.250
+05/02/16,State,New York,Midgrade,2.558
+05/02/16,State,Ohio,Midgrade,2.526
+05/02/16,State,Texas,Midgrade,2.213
+05/02/16,State,Washington,Midgrade,2.580
+05/02/16,City,Boston,Midgrade,2.411
+05/02/16,City,Chicago,Midgrade,2.750
+05/02/16,City,Cleveland,Midgrade,2.577
+05/02/16,City,Denver,Midgrade,2.367
+05/02/16,City,Houston,Midgrade,2.210
+05/02/16,City,Los Angeles,Midgrade,2.983
+05/02/16,City,Miami,Midgrade,2.687
+05/02/16,City,New York City,Midgrade,2.469
+05/02/16,City,San Francisco,Midgrade,2.989
+05/02/16,City,Seattle,Midgrade,2.557
+05/02/16,US,U.S.,Regular - Conventional Areas,2.168
+05/02/16,US,East Coast (PADD1),Regular - Conventional Areas,2.218
+05/02/16,US,New England (PADD 1A),Regular - Conventional Areas,2.285
+05/02/16,US,Central Atlantic (PADD 1B),Regular - Conventional Areas,2.353
+05/02/16,US,Lower Atlantic (PADD 1C),Regular - Conventional Areas,2.171
+05/02/16,US,Midwest (PADD 2),Regular - Conventional Areas,2.161
+05/02/16,US,Gulf Coast (PADD 3),Regular - Conventional Areas,2.006
+05/02/16,US,Rocky Mountain (PADD 4),Regular - Conventional Areas,2.167
+05/02/16,US,West Coast (PADD 5),Regular - Conventional Areas,2.369
+05/02/16,US,West Coast less California,Regular - Conventional Areas,2.369
+05/02/16,State,Colorado,Regular - Conventional Areas,2.098
+05/02/16,State,Florida,Regular - Conventional Areas,2.195
+05/02/16,State,Minnesota,Regular - Conventional Areas,2.116
+05/02/16,State,New York,Regular - Conventional Areas,2.297
+05/02/16,State,Ohio,Regular - Conventional Areas,2.300
+05/02/16,State,Texas,Regular - Conventional Areas,2.000
+05/02/16,State,Washington,Regular - Conventional Areas,2.387
+05/02/16,City,Cleveland,Regular - Conventional Areas,2.313
+05/02/16,City,Denver,Regular - Conventional Areas,2.089
+05/02/16,City,Miami,Regular - Conventional Areas,2.371
+05/02/16,City,Seattle,Regular - Conventional Areas,2.393

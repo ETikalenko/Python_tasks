@@ -1,0 +1,1513 @@
+Week,Year,State,Prevalence
+15,2016,AK,Regional
+15,2016,OR,Local Activity
+15,2016,WA,Local Activity
+15,2016,ID,Regional
+15,2016,GU,Regional
+15,2016,HI,Local Activity
+15,2016,CA,Regional
+15,2016,NV,Regional
+15,2016,AZ,Regional
+15,2016,UT,Regional
+15,2016,CO,Widespread
+15,2016,WY,Local Activity
+15,2016,MT,Regional
+15,2016,SD,Regional
+15,2016,ND,Regional
+15,2016,KS,Regional
+15,2016,NE,Widespread
+15,2016,MO,Regional
+15,2016,IA,Regional
+15,2016,NM,Regional
+15,2016,TX,Local Activity
+15,2016,OK,Regional
+15,2016,LA,Local Activity
+15,2016,AR,Regional
+15,2016,MN,Regional
+15,2016,WI,Widespread
+15,2016,MI,Regional
+15,2016,IL,Local Activity
+15,2016,IN,Sporadic
+15,2016,OH,Widespread
+15,2016,MS,Sporadic
+15,2016,AL,Local Activity
+15,2016,TN,Local Activity
+15,2016,KY,Widespread
+15,2016,FL,Sporadic
+15,2016,GA,Sporadic
+15,2016,SC,Regional
+15,2016,NC,Local Activity
+15,2016,WV,Local Activity
+15,2016,VA,Widespread
+15,2016,DC,Local Activity
+15,2016,MD,Local Activity
+15,2016,DE,Widespread
+15,2016,PA,Widespread
+15,2016,VI,Sporadic
+15,2016,PR,Widespread
+15,2016,NJ,Regional
+15,2016,NY,Widespread
+15,2016,CT,Widespread
+15,2016,RI,Local Activity
+15,2016,MA,Widespread
+15,2016,VT,Widespread
+15,2016,NH,Widespread
+15,2016,ME,Widespread
+14,2016,AK,Widespread
+14,2016,OR,Regional
+14,2016,WA,Regional
+14,2016,ID,Regional
+14,2016,GU,Regional
+14,2016,HI,Local Activity
+14,2016,CA,Widespread
+14,2016,NV,Regional
+14,2016,AZ,Widespread
+14,2016,UT,Regional
+14,2016,CO,Widespread
+14,2016,WY,Regional
+14,2016,MT,Regional
+14,2016,SD,Regional
+14,2016,ND,Regional
+14,2016,KS,Regional
+14,2016,NE,Widespread
+14,2016,MO,Regional
+14,2016,IA,Widespread
+14,2016,NM,Regional
+14,2016,TX,Local Activity
+14,2016,OK,Regional
+14,2016,LA,Local Activity
+14,2016,AR,Regional
+14,2016,MN,Regional
+14,2016,WI,Widespread
+14,2016,MI,Regional
+14,2016,IL,Local Activity
+14,2016,IN,Sporadic
+14,2016,OH,Widespread
+14,2016,MS,Sporadic
+14,2016,AL,Local Activity
+14,2016,TN,Local Activity
+14,2016,KY,Widespread
+14,2016,FL,Sporadic
+14,2016,GA,Local Activity
+14,2016,SC,Local Activity
+14,2016,NC,Local Activity
+14,2016,WV,Local Activity
+14,2016,VA,Widespread
+14,2016,DC,Local Activity
+14,2016,MD,Regional
+14,2016,DE,Widespread
+14,2016,PA,Widespread
+14,2016,VI,Sporadic
+14,2016,PR,Widespread
+14,2016,NJ,Regional
+14,2016,NY,Widespread
+14,2016,CT,Widespread
+14,2016,RI,Regional
+14,2016,MA,Widespread
+14,2016,VT,Widespread
+14,2016,NH,Widespread
+14,2016,ME,Widespread
+13,2016,AK,Widespread
+13,2016,OR,Local Activity
+13,2016,WA,Regional
+13,2016,ID,Regional
+13,2016,GU,Regional
+13,2016,HI,Local Activity
+13,2016,CA,Widespread
+13,2016,NV,Regional
+13,2016,AZ,Widespread
+13,2016,UT,Regional
+13,2016,CO,Widespread
+13,2016,WY,Widespread
+13,2016,MT,Regional
+13,2016,SD,Regional
+13,2016,ND,Widespread
+13,2016,KS,Regional
+13,2016,NE,Widespread
+13,2016,MO,Widespread
+13,2016,IA,Widespread
+13,2016,NM,Regional
+13,2016,TX,Regional
+13,2016,OK,Regional
+13,2016,LA,Regional
+13,2016,AR,Regional
+13,2016,MN,Regional
+13,2016,WI,Widespread
+13,2016,MI,Widespread
+13,2016,IL,Local Activity
+13,2016,IN,Local Activity
+13,2016,OH,Widespread
+13,2016,MS,Sporadic
+13,2016,AL,Sporadic
+13,2016,TN,Regional
+13,2016,KY,Widespread
+13,2016,FL,Regional
+13,2016,GA,Regional
+13,2016,SC,Regional
+13,2016,NC,Widespread
+13,2016,WV,Sporadic
+13,2016,VA,Widespread
+13,2016,DC,Local Activity
+13,2016,MD,Widespread
+13,2016,DE,Widespread
+13,2016,PA,Widespread
+13,2016,VI,No Report
+13,2016,PR,Widespread
+13,2016,NJ,Widespread
+13,2016,NY,Widespread
+13,2016,CT,Widespread
+13,2016,RI,Regional
+13,2016,MA,Widespread
+13,2016,VT,Widespread
+13,2016,NH,Widespread
+13,2016,ME,Widespread
+12,2016,AK,Widespread
+12,2016,OR,Regional
+12,2016,WA,Regional
+12,2016,ID,Widespread
+12,2016,GU,Widespread
+12,2016,HI,Regional
+12,2016,CA,Widespread
+12,2016,NV,Widespread
+12,2016,AZ,Widespread
+12,2016,UT,Regional
+12,2016,CO,Widespread
+12,2016,WY,Widespread
+12,2016,MT,Widespread
+12,2016,SD,Regional
+12,2016,ND,Widespread
+12,2016,KS,Regional
+12,2016,NE,Widespread
+12,2016,MO,Widespread
+12,2016,IA,Widespread
+12,2016,NM,Regional
+12,2016,TX,Regional
+12,2016,OK,Regional
+12,2016,LA,Regional
+12,2016,AR,Regional
+12,2016,MN,Regional
+12,2016,WI,Widespread
+12,2016,MI,Widespread
+12,2016,IL,Regional
+12,2016,IN,Regional
+12,2016,OH,Widespread
+12,2016,MS,Regional
+12,2016,AL,Local Activity
+12,2016,TN,Local Activity
+12,2016,KY,Widespread
+12,2016,FL,Regional
+12,2016,GA,Regional
+12,2016,SC,Regional
+12,2016,NC,Widespread
+12,2016,WV,Sporadic
+12,2016,VA,Widespread
+12,2016,DC,Local Activity
+12,2016,MD,Widespread
+12,2016,DE,Widespread
+12,2016,PA,Widespread
+12,2016,VI,No Report
+12,2016,PR,Widespread
+12,2016,NJ,Widespread
+12,2016,NY,Widespread
+12,2016,CT,Widespread
+12,2016,RI,Widespread
+12,2016,MA,Widespread
+12,2016,VT,Widespread
+12,2016,NH,Widespread
+12,2016,ME,Widespread
+11,2016,AK,Widespread
+11,2016,OR,Widespread
+11,2016,WA,Regional
+11,2016,ID,Widespread
+11,2016,GU,Regional
+11,2016,HI,Local Activity
+11,2016,CA,Widespread
+11,2016,NV,Widespread
+11,2016,AZ,Widespread
+11,2016,UT,Regional
+11,2016,CO,Widespread
+11,2016,WY,Widespread
+11,2016,MT,Widespread
+11,2016,SD,Widespread
+11,2016,ND,Widespread
+11,2016,KS,Widespread
+11,2016,NE,Widespread
+11,2016,MO,Widespread
+11,2016,IA,Widespread
+11,2016,NM,Widespread
+11,2016,TX,Regional
+11,2016,OK,Widespread
+11,2016,LA,Regional
+11,2016,AR,Widespread
+11,2016,MN,Widespread
+11,2016,WI,Widespread
+11,2016,MI,Widespread
+11,2016,IL,Regional
+11,2016,IN,Widespread
+11,2016,OH,Widespread
+11,2016,MS,Regional
+11,2016,AL,Regional
+11,2016,TN,Regional
+11,2016,KY,Widespread
+11,2016,FL,Widespread
+11,2016,GA,Regional
+11,2016,SC,Widespread
+11,2016,NC,Widespread
+11,2016,WV,Regional
+11,2016,VA,Widespread
+11,2016,DC,Local Activity
+11,2016,MD,Widespread
+11,2016,DE,Widespread
+11,2016,PA,Widespread
+11,2016,VI,No Report
+11,2016,PR,Widespread
+11,2016,NJ,Widespread
+11,2016,NY,Widespread
+11,2016,CT,Widespread
+11,2016,RI,Widespread
+11,2016,MA,Widespread
+11,2016,VT,Widespread
+11,2016,NH,Widespread
+11,2016,ME,Widespread
+10,2016,AK,Widespread
+10,2016,OR,Widespread
+10,2016,WA,Regional
+10,2016,ID,Widespread
+10,2016,GU,Regional
+10,2016,HI,Regional
+10,2016,CA,Widespread
+10,2016,NV,Widespread
+10,2016,AZ,Widespread
+10,2016,UT,Regional
+10,2016,CO,Widespread
+10,2016,WY,Widespread
+10,2016,MT,Widespread
+10,2016,SD,Widespread
+10,2016,ND,Widespread
+10,2016,KS,Widespread
+10,2016,NE,Widespread
+10,2016,MO,Widespread
+10,2016,IA,Widespread
+10,2016,NM,Widespread
+10,2016,TX,Regional
+10,2016,OK,Widespread
+10,2016,LA,Regional
+10,2016,AR,Widespread
+10,2016,MN,Widespread
+10,2016,WI,Widespread
+10,2016,MI,Widespread
+10,2016,IL,Regional
+10,2016,IN,Widespread
+10,2016,OH,Widespread
+10,2016,MS,Regional
+10,2016,AL,Regional
+10,2016,TN,Regional
+10,2016,KY,Widespread
+10,2016,FL,Widespread
+10,2016,GA,Widespread
+10,2016,SC,Widespread
+10,2016,NC,Widespread
+10,2016,WV,Regional
+10,2016,VA,Widespread
+10,2016,DC,Local Activity
+10,2016,MD,Widespread
+10,2016,DE,Widespread
+10,2016,PA,Widespread
+10,2016,VI,No Report
+10,2016,PR,Widespread
+10,2016,NJ,Widespread
+10,2016,NY,Widespread
+10,2016,CT,Widespread
+10,2016,RI,Widespread
+10,2016,MA,Widespread
+10,2016,VT,Widespread
+10,2016,NH,Widespread
+10,2016,ME,Widespread
+9,2016,AK,Widespread
+9,2016,OR,Widespread
+9,2016,WA,Regional
+9,2016,ID,Widespread
+9,2016,GU,Regional
+9,2016,HI,Regional
+9,2016,CA,Widespread
+9,2016,NV,Widespread
+9,2016,AZ,Widespread
+9,2016,UT,Widespread
+9,2016,CO,Regional
+9,2016,WY,Widespread
+9,2016,MT,Widespread
+9,2016,SD,Widespread
+9,2016,ND,Widespread
+9,2016,KS,Widespread
+9,2016,NE,Widespread
+9,2016,MO,Regional
+9,2016,IA,Widespread
+9,2016,NM,Widespread
+9,2016,TX,Widespread
+9,2016,OK,Widespread
+9,2016,LA,Regional
+9,2016,AR,Widespread
+9,2016,MN,Widespread
+9,2016,WI,Widespread
+9,2016,MI,Widespread
+9,2016,IL,Regional
+9,2016,IN,Widespread
+9,2016,OH,Widespread
+9,2016,MS,Regional
+9,2016,AL,Regional
+9,2016,TN,Regional
+9,2016,KY,Widespread
+9,2016,FL,Widespread
+9,2016,GA,Regional
+9,2016,SC,Regional
+9,2016,NC,Widespread
+9,2016,WV,Regional
+9,2016,VA,Widespread
+9,2016,DC,Local Activity
+9,2016,MD,Widespread
+9,2016,DE,Widespread
+9,2016,PA,Widespread
+9,2016,VI,Sporadic
+9,2016,PR,Widespread
+9,2016,NJ,Widespread
+9,2016,NY,Widespread
+9,2016,CT,Widespread
+9,2016,RI,Widespread
+9,2016,MA,Widespread
+9,2016,VT,Widespread
+9,2016,NH,Widespread
+9,2016,ME,Regional
+8,2016,AK,Widespread
+8,2016,OR,Sporadic
+8,2016,WA,Widespread
+8,2016,ID,Widespread
+8,2016,GU,Regional
+8,2016,HI,Regional
+8,2016,CA,Widespread
+8,2016,NV,Widespread
+8,2016,AZ,Widespread
+8,2016,UT,Widespread
+8,2016,CO,Regional
+8,2016,WY,Widespread
+8,2016,MT,Widespread
+8,2016,SD,Widespread
+8,2016,ND,Widespread
+8,2016,KS,Widespread
+8,2016,NE,Widespread
+8,2016,MO,Regional
+8,2016,IA,Widespread
+8,2016,NM,Widespread
+8,2016,TX,Widespread
+8,2016,OK,Regional
+8,2016,LA,Regional
+8,2016,AR,Regional
+8,2016,MN,Widespread
+8,2016,WI,Widespread
+8,2016,MI,Widespread
+8,2016,IL,Regional
+8,2016,IN,Regional
+8,2016,OH,Widespread
+8,2016,MS,Local Activity
+8,2016,AL,Regional
+8,2016,TN,Regional
+8,2016,KY,Widespread
+8,2016,FL,Regional
+8,2016,GA,Regional
+8,2016,SC,Regional
+8,2016,NC,Widespread
+8,2016,WV,Sporadic
+8,2016,VA,Widespread
+8,2016,DC,Local Activity
+8,2016,MD,Widespread
+8,2016,DE,Widespread
+8,2016,PA,Widespread
+8,2016,VI,Sporadic
+8,2016,PR,Widespread
+8,2016,NJ,Widespread
+8,2016,NY,Widespread
+8,2016,CT,Widespread
+8,2016,RI,Widespread
+8,2016,MA,Widespread
+8,2016,VT,Widespread
+8,2016,NH,Widespread
+8,2016,ME,Regional
+7,2016,AK,Local Activity
+7,2016,OR,Regional
+7,2016,WA,Widespread
+7,2016,ID,Regional
+7,2016,GU,Widespread
+7,2016,HI,Regional
+7,2016,CA,Widespread
+7,2016,NV,Widespread
+7,2016,AZ,Widespread
+7,2016,UT,Widespread
+7,2016,CO,Local Activity
+7,2016,WY,Regional
+7,2016,MT,Regional
+7,2016,SD,Regional
+7,2016,ND,Widespread
+7,2016,KS,Regional
+7,2016,NE,Regional
+7,2016,MO,Local Activity
+7,2016,IA,Widespread
+7,2016,NM,Widespread
+7,2016,TX,Widespread
+7,2016,OK,Regional
+7,2016,LA,Local Activity
+7,2016,AR,Local Activity
+7,2016,MN,Widespread
+7,2016,WI,Local Activity
+7,2016,MI,Widespread
+7,2016,IL,Local Activity
+7,2016,IN,Regional
+7,2016,OH,Regional
+7,2016,MS,Local Activity
+7,2016,AL,Regional
+7,2016,TN,Regional
+7,2016,KY,Widespread
+7,2016,FL,Regional
+7,2016,GA,Regional
+7,2016,SC,Local Activity
+7,2016,NC,Regional
+7,2016,WV,Sporadic
+7,2016,VA,Widespread
+7,2016,DC,Local Activity
+7,2016,MD,Widespread
+7,2016,DE,Local Activity
+7,2016,PA,Widespread
+7,2016,VI,Sporadic
+7,2016,PR,Widespread
+7,2016,NJ,Widespread
+7,2016,NY,Widespread
+7,2016,CT,Widespread
+7,2016,RI,Regional
+7,2016,MA,Widespread
+7,2016,VT,Widespread
+7,2016,NH,Widespread
+7,2016,ME,Regional
+6,2016,AK,Local Activity
+6,2016,OR,Local Activity
+6,2016,WA,Regional
+6,2016,ID,Regional
+6,2016,GU,Local Activity
+6,2016,HI,Local Activity
+6,2016,CA,Widespread
+6,2016,NV,Regional
+6,2016,AZ,Widespread
+6,2016,UT,Regional
+6,2016,CO,Local Activity
+6,2016,WY,Local Activity
+6,2016,MT,Regional
+6,2016,SD,Local Activity
+6,2016,ND,Regional
+6,2016,KS,Local Activity
+6,2016,NE,Local Activity
+6,2016,MO,Local Activity
+6,2016,IA,Widespread
+6,2016,NM,Widespread
+6,2016,TX,Widespread
+6,2016,OK,Local Activity
+6,2016,LA,Sporadic
+6,2016,AR,Local Activity
+6,2016,MN,Regional
+6,2016,WI,Local Activity
+6,2016,MI,Regional
+6,2016,IL,Regional
+6,2016,IN,Regional
+6,2016,OH,Regional
+6,2016,MS,Sporadic
+6,2016,AL,Local Activity
+6,2016,TN,Regional
+6,2016,KY,Widespread
+6,2016,FL,Regional
+6,2016,GA,Regional
+6,2016,SC,Regional
+6,2016,NC,Regional
+6,2016,WV,Sporadic
+6,2016,VA,Local Activity
+6,2016,DC,Local Activity
+6,2016,MD,Widespread
+6,2016,DE,Local Activity
+6,2016,PA,Widespread
+6,2016,VI,Sporadic
+6,2016,PR,Widespread
+6,2016,NJ,Regional
+6,2016,NY,Widespread
+6,2016,CT,Widespread
+6,2016,RI,Regional
+6,2016,MA,Widespread
+6,2016,VT,Widespread
+6,2016,NH,Regional
+6,2016,ME,Regional
+5,2016,AK,Sporadic
+5,2016,OR,Local Activity
+5,2016,WA,Regional
+5,2016,ID,Local Activity
+5,2016,GU,Regional
+5,2016,HI,Sporadic
+5,2016,CA,Widespread
+5,2016,NV,Regional
+5,2016,AZ,Widespread
+5,2016,UT,Regional
+5,2016,CO,Local Activity
+5,2016,WY,Local Activity
+5,2016,MT,Local Activity
+5,2016,SD,Sporadic
+5,2016,ND,Regional
+5,2016,KS,Local Activity
+5,2016,NE,Sporadic
+5,2016,MO,Sporadic
+5,2016,IA,Widespread
+5,2016,NM,Regional
+5,2016,TX,Regional
+5,2016,OK,Local Activity
+5,2016,LA,Sporadic
+5,2016,AR,Local Activity
+5,2016,MN,Regional
+5,2016,WI,Local Activity
+5,2016,MI,Regional
+5,2016,IL,Local Activity
+5,2016,IN,Regional
+5,2016,OH,Local Activity
+5,2016,MS,No Activity
+5,2016,AL,Local Activity
+5,2016,TN,Local Activity
+5,2016,KY,Widespread
+5,2016,FL,Regional
+5,2016,GA,Sporadic
+5,2016,SC,Local Activity
+5,2016,NC,Local Activity
+5,2016,WV,Sporadic
+5,2016,VA,Local Activity
+5,2016,DC,Sporadic
+5,2016,MD,Regional
+5,2016,DE,Sporadic
+5,2016,PA,Regional
+5,2016,VI,No Report
+5,2016,PR,Widespread
+5,2016,NJ,Regional
+5,2016,NY,Widespread
+5,2016,CT,Widespread
+5,2016,RI,Regional
+5,2016,MA,Widespread
+5,2016,VT,Regional
+5,2016,NH,Regional
+5,2016,ME,Regional
+4,2016,AK,Local Activity
+4,2016,OR,Local Activity
+4,2016,WA,Regional
+4,2016,ID,Local Activity
+4,2016,GU,Regional
+4,2016,HI,Sporadic
+4,2016,CA,Widespread
+4,2016,NV,Regional
+4,2016,AZ,Regional
+4,2016,UT,Regional
+4,2016,CO,Local Activity
+4,2016,WY,Local Activity
+4,2016,MT,Sporadic
+4,2016,SD,Sporadic
+4,2016,ND,Local Activity
+4,2016,KS,Sporadic
+4,2016,NE,Sporadic
+4,2016,MO,Sporadic
+4,2016,IA,Widespread
+4,2016,NM,Regional
+4,2016,TX,Regional
+4,2016,OK,Local Activity
+4,2016,LA,Sporadic
+4,2016,AR,Local Activity
+4,2016,MN,Local Activity
+4,2016,WI,Sporadic
+4,2016,MI,Local Activity
+4,2016,IL,Local Activity
+4,2016,IN,Regional
+4,2016,OH,Local Activity
+4,2016,MS,No Activity
+4,2016,AL,Local Activity
+4,2016,TN,Sporadic
+4,2016,KY,Regional
+4,2016,FL,Local Activity
+4,2016,GA,Sporadic
+4,2016,SC,Local Activity
+4,2016,NC,Regional
+4,2016,WV,Sporadic
+4,2016,VA,Regional
+4,2016,DC,Local Activity
+4,2016,MD,Regional
+4,2016,DE,Sporadic
+4,2016,PA,Local Activity
+4,2016,VI,Sporadic
+4,2016,PR,Widespread
+4,2016,NJ,Regional
+4,2016,NY,Regional
+4,2016,CT,Regional
+4,2016,RI,Regional
+4,2016,MA,Widespread
+4,2016,VT,Regional
+4,2016,NH,Regional
+4,2016,ME,Regional
+3,2016,AK,Sporadic
+3,2016,OR,Local Activity
+3,2016,WA,Regional
+3,2016,ID,Sporadic
+3,2016,GU,Local Activity
+3,2016,HI,Sporadic
+3,2016,CA,Widespread
+3,2016,NV,Regional
+3,2016,AZ,Regional
+3,2016,UT,Regional
+3,2016,CO,Sporadic
+3,2016,WY,Local Activity
+3,2016,MT,Sporadic
+3,2016,SD,Sporadic
+3,2016,ND,Local Activity
+3,2016,KS,Sporadic
+3,2016,NE,Sporadic
+3,2016,MO,Sporadic
+3,2016,IA,Regional
+3,2016,NM,Regional
+3,2016,TX,Regional
+3,2016,OK,Local Activity
+3,2016,LA,Sporadic
+3,2016,AR,Local Activity
+3,2016,MN,Local Activity
+3,2016,WI,Sporadic
+3,2016,MI,Local Activity
+3,2016,IL,Local Activity
+3,2016,IN,Local Activity
+3,2016,OH,Sporadic
+3,2016,MS,Sporadic
+3,2016,AL,Regional
+3,2016,TN,Sporadic
+3,2016,KY,Sporadic
+3,2016,FL,Sporadic
+3,2016,GA,Sporadic
+3,2016,SC,Sporadic
+3,2016,NC,Widespread
+3,2016,WV,Sporadic
+3,2016,VA,Regional
+3,2016,DC,Sporadic
+3,2016,MD,Widespread
+3,2016,DE,Sporadic
+3,2016,PA,Local Activity
+3,2016,VI,Sporadic
+3,2016,PR,Regional
+3,2016,NJ,Local Activity
+3,2016,NY,Regional
+3,2016,CT,Regional
+3,2016,RI,Regional
+3,2016,MA,Widespread
+3,2016,VT,Local Activity
+3,2016,NH,Regional
+3,2016,ME,Regional
+2,2016,AK,Sporadic
+2,2016,OR,Regional
+2,2016,WA,Regional
+2,2016,ID,Sporadic
+2,2016,GU,Local Activity
+2,2016,HI,Sporadic
+2,2016,CA,Regional
+2,2016,NV,Local Activity
+2,2016,AZ,Regional
+2,2016,UT,Regional
+2,2016,CO,Sporadic
+2,2016,WY,Sporadic
+2,2016,MT,Sporadic
+2,2016,SD,Sporadic
+2,2016,ND,Sporadic
+2,2016,KS,Sporadic
+2,2016,NE,Sporadic
+2,2016,MO,Sporadic
+2,2016,IA,Regional
+2,2016,NM,Local Activity
+2,2016,TX,Local Activity
+2,2016,OK,Local Activity
+2,2016,LA,Sporadic
+2,2016,AR,Sporadic
+2,2016,MN,Local Activity
+2,2016,WI,Sporadic
+2,2016,MI,Local Activity
+2,2016,IL,Sporadic
+2,2016,IN,Local Activity
+2,2016,OH,Sporadic
+2,2016,MS,Sporadic
+2,2016,AL,No Activity
+2,2016,TN,Sporadic
+2,2016,KY,Sporadic
+2,2016,FL,Sporadic
+2,2016,GA,Sporadic
+2,2016,SC,Sporadic
+2,2016,NC,Widespread
+2,2016,WV,Sporadic
+2,2016,VA,Regional
+2,2016,DC,No Activity
+2,2016,MD,Widespread
+2,2016,DE,Sporadic
+2,2016,PA,Local Activity
+2,2016,VI,Sporadic
+2,2016,PR,Regional
+2,2016,NJ,Local Activity
+2,2016,NY,Local Activity
+2,2016,CT,Regional
+2,2016,RI,Regional
+2,2016,MA,Widespread
+2,2016,VT,Local Activity
+2,2016,NH,Local Activity
+2,2016,ME,Regional
+1,2016,AK,Sporadic
+1,2016,OR,Local Activity
+1,2016,WA,Sporadic
+1,2016,ID,Sporadic
+1,2016,GU,Regional
+1,2016,HI,Sporadic
+1,2016,CA,Regional
+1,2016,NV,Local Activity
+1,2016,AZ,Regional
+1,2016,UT,Local Activity
+1,2016,CO,Sporadic
+1,2016,WY,Sporadic
+1,2016,MT,Sporadic
+1,2016,SD,Sporadic
+1,2016,ND,Sporadic
+1,2016,KS,Sporadic
+1,2016,NE,Sporadic
+1,2016,MO,Sporadic
+1,2016,IA,Regional
+1,2016,NM,Local Activity
+1,2016,TX,Local Activity
+1,2016,OK,Local Activity
+1,2016,LA,Sporadic
+1,2016,AR,Sporadic
+1,2016,MN,Sporadic
+1,2016,WI,Sporadic
+1,2016,MI,Sporadic
+1,2016,IL,Sporadic
+1,2016,IN,Local Activity
+1,2016,OH,Sporadic
+1,2016,MS,Sporadic
+1,2016,AL,No Activity
+1,2016,TN,No Activity
+1,2016,KY,Local Activity
+1,2016,FL,Sporadic
+1,2016,GA,Sporadic
+1,2016,SC,Sporadic
+1,2016,NC,Regional
+1,2016,WV,Sporadic
+1,2016,VA,Regional
+1,2016,DC,No Activity
+1,2016,MD,Local Activity
+1,2016,DE,Sporadic
+1,2016,PA,Regional
+1,2016,VI,Sporadic
+1,2016,PR,Regional
+1,2016,NJ,Local Activity
+1,2016,NY,Sporadic
+1,2016,CT,Regional
+1,2016,RI,Sporadic
+1,2016,MA,Regional
+1,2016,VT,Local Activity
+1,2016,NH,Regional
+1,2016,ME,Sporadic
+52,2015,AK,Sporadic
+52,2015,OR,Local Activity
+52,2015,WA,Sporadic
+52,2015,ID,Sporadic
+52,2015,GU,Widespread
+52,2015,HI,Sporadic
+52,2015,CA,Local Activity
+52,2015,NV,Local Activity
+52,2015,AZ,Local Activity
+52,2015,UT,Local Activity
+52,2015,CO,Sporadic
+52,2015,WY,Sporadic
+52,2015,MT,Sporadic
+52,2015,SD,Sporadic
+52,2015,ND,Local Activity
+52,2015,KS,Sporadic
+52,2015,NE,Sporadic
+52,2015,MO,Sporadic
+52,2015,IA,Regional
+52,2015,NM,Local Activity
+52,2015,TX,Local Activity
+52,2015,OK,Local Activity
+52,2015,LA,Sporadic
+52,2015,AR,Sporadic
+52,2015,MN,Sporadic
+52,2015,WI,Sporadic
+52,2015,MI,Sporadic
+52,2015,IL,Sporadic
+52,2015,IN,Sporadic
+52,2015,OH,Sporadic
+52,2015,MS,No Activity
+52,2015,AL,No Activity
+52,2015,TN,Sporadic
+52,2015,KY,Local Activity
+52,2015,FL,Sporadic
+52,2015,GA,Sporadic
+52,2015,SC,Sporadic
+52,2015,NC,Widespread
+52,2015,WV,Sporadic
+52,2015,VA,Regional
+52,2015,DC,No Activity
+52,2015,MD,Widespread
+52,2015,DE,Sporadic
+52,2015,PA,Regional
+52,2015,VI,Sporadic
+52,2015,PR,No Report
+52,2015,NJ,Local Activity
+52,2015,NY,Sporadic
+52,2015,CT,Regional
+52,2015,RI,Sporadic
+52,2015,MA,Regional
+52,2015,VT,Local Activity
+52,2015,NH,Regional
+52,2015,ME,Local Activity
+51,2015,AK,Sporadic
+51,2015,OR,Local Activity
+51,2015,WA,Sporadic
+51,2015,ID,Sporadic
+51,2015,GU,Widespread
+51,2015,HI,Sporadic
+51,2015,CA,Sporadic
+51,2015,NV,Local Activity
+51,2015,AZ,Local Activity
+51,2015,UT,Local Activity
+51,2015,CO,Sporadic
+51,2015,WY,Sporadic
+51,2015,MT,Sporadic
+51,2015,SD,Sporadic
+51,2015,ND,Sporadic
+51,2015,KS,Sporadic
+51,2015,NE,Sporadic
+51,2015,MO,Sporadic
+51,2015,IA,Local Activity
+51,2015,NM,Local Activity
+51,2015,TX,Local Activity
+51,2015,OK,Sporadic
+51,2015,LA,Sporadic
+51,2015,AR,Sporadic
+51,2015,MN,Local Activity
+51,2015,WI,Sporadic
+51,2015,MI,Sporadic
+51,2015,IL,Sporadic
+51,2015,IN,Local Activity
+51,2015,OH,Sporadic
+51,2015,MS,No Activity
+51,2015,AL,Sporadic
+51,2015,TN,No Activity
+51,2015,KY,Local Activity
+51,2015,FL,Sporadic
+51,2015,GA,Sporadic
+51,2015,SC,Sporadic
+51,2015,NC,Widespread
+51,2015,WV,Sporadic
+51,2015,VA,Regional
+51,2015,DC,No Activity
+51,2015,MD,Regional
+51,2015,DE,Sporadic
+51,2015,PA,Regional
+51,2015,VI,No Report
+51,2015,PR,No Report
+51,2015,NJ,Local Activity
+51,2015,NY,Sporadic
+51,2015,CT,Local Activity
+51,2015,RI,No Activity
+51,2015,MA,Regional
+51,2015,VT,Sporadic
+51,2015,NH,Regional
+51,2015,ME,Sporadic
+50,2015,AK,Sporadic
+50,2015,OR,Local Activity
+50,2015,WA,Sporadic
+50,2015,ID,Local Activity
+50,2015,GU,Regional
+50,2015,HI,Sporadic
+50,2015,CA,Sporadic
+50,2015,NV,Local Activity
+50,2015,AZ,Local Activity
+50,2015,UT,Sporadic
+50,2015,CO,Sporadic
+50,2015,WY,Sporadic
+50,2015,MT,Sporadic
+50,2015,SD,Sporadic
+50,2015,ND,Sporadic
+50,2015,KS,Sporadic
+50,2015,NE,Sporadic
+50,2015,MO,Sporadic
+50,2015,IA,Local Activity
+50,2015,NM,Local Activity
+50,2015,TX,Local Activity
+50,2015,OK,Sporadic
+50,2015,LA,Sporadic
+50,2015,AR,Sporadic
+50,2015,MN,Regional
+50,2015,WI,Sporadic
+50,2015,MI,Sporadic
+50,2015,IL,No Activity
+50,2015,IN,Local Activity
+50,2015,OH,Sporadic
+50,2015,MS,No Activity
+50,2015,AL,Local Activity
+50,2015,TN,Sporadic
+50,2015,KY,Regional
+50,2015,FL,Sporadic
+50,2015,GA,Sporadic
+50,2015,SC,Sporadic
+50,2015,NC,Regional
+50,2015,WV,Sporadic
+50,2015,VA,Local Activity
+50,2015,DC,Sporadic
+50,2015,MD,Regional
+50,2015,DE,No Activity
+50,2015,PA,Regional
+50,2015,VI,Local Activity
+50,2015,PR,Regional
+50,2015,NJ,Local Activity
+50,2015,NY,Sporadic
+50,2015,CT,Local Activity
+50,2015,RI,No Activity
+50,2015,MA,Local Activity
+50,2015,VT,Sporadic
+50,2015,NH,Local Activity
+50,2015,ME,Sporadic
+49,2015,AK,Sporadic
+49,2015,OR,Sporadic
+49,2015,WA,Sporadic
+49,2015,ID,Local Activity
+49,2015,GU,Widespread
+49,2015,HI,Sporadic
+49,2015,CA,Sporadic
+49,2015,NV,Local Activity
+49,2015,AZ,Local Activity
+49,2015,UT,Local Activity
+49,2015,CO,Sporadic
+49,2015,WY,Sporadic
+49,2015,MT,Sporadic
+49,2015,SD,Sporadic
+49,2015,ND,Sporadic
+49,2015,KS,Sporadic
+49,2015,NE,Sporadic
+49,2015,MO,Sporadic
+49,2015,IA,Local Activity
+49,2015,NM,Sporadic
+49,2015,TX,Local Activity
+49,2015,OK,Sporadic
+49,2015,LA,Sporadic
+49,2015,AR,Sporadic
+49,2015,MN,Sporadic
+49,2015,WI,Sporadic
+49,2015,MI,Sporadic
+49,2015,IL,Sporadic
+49,2015,IN,Sporadic
+49,2015,OH,Sporadic
+49,2015,MS,No Activity
+49,2015,AL,Local Activity
+49,2015,TN,Sporadic
+49,2015,KY,Local Activity
+49,2015,FL,Sporadic
+49,2015,GA,Sporadic
+49,2015,SC,Sporadic
+49,2015,NC,Local Activity
+49,2015,WV,Sporadic
+49,2015,VA,Sporadic
+49,2015,DC,Sporadic
+49,2015,MD,Regional
+49,2015,DE,No Activity
+49,2015,PA,Sporadic
+49,2015,VI,Sporadic
+49,2015,PR,Regional
+49,2015,NJ,Local Activity
+49,2015,NY,Sporadic
+49,2015,CT,Local Activity
+49,2015,RI,No Activity
+49,2015,MA,Local Activity
+49,2015,VT,Sporadic
+49,2015,NH,Regional
+49,2015,ME,Sporadic
+48,2015,AK,Sporadic
+48,2015,OR,Local Activity
+48,2015,WA,Sporadic
+48,2015,ID,Sporadic
+48,2015,GU,Widespread
+48,2015,HI,Sporadic
+48,2015,CA,Sporadic
+48,2015,NV,Local Activity
+48,2015,AZ,Sporadic
+48,2015,UT,Sporadic
+48,2015,CO,Sporadic
+48,2015,WY,Sporadic
+48,2015,MT,Sporadic
+48,2015,SD,Sporadic
+48,2015,ND,Sporadic
+48,2015,KS,Sporadic
+48,2015,NE,Sporadic
+48,2015,MO,Sporadic
+48,2015,IA,Local Activity
+48,2015,NM,Sporadic
+48,2015,TX,Local Activity
+48,2015,OK,Sporadic
+48,2015,LA,Sporadic
+48,2015,AR,Sporadic
+48,2015,MN,Sporadic
+48,2015,WI,Sporadic
+48,2015,MI,Sporadic
+48,2015,IL,Sporadic
+48,2015,IN,Sporadic
+48,2015,OH,Sporadic
+48,2015,MS,No Activity
+48,2015,AL,No Activity
+48,2015,TN,Sporadic
+48,2015,KY,Local Activity
+48,2015,FL,Sporadic
+48,2015,GA,Sporadic
+48,2015,SC,Sporadic
+48,2015,NC,Local Activity
+48,2015,WV,Sporadic
+48,2015,VA,Sporadic
+48,2015,DC,No Activity
+48,2015,MD,Local Activity
+48,2015,DE,Sporadic
+48,2015,PA,Sporadic
+48,2015,VI,Sporadic
+48,2015,PR,Regional
+48,2015,NJ,Sporadic
+48,2015,NY,Sporadic
+48,2015,CT,Local Activity
+48,2015,RI,No Activity
+48,2015,MA,Local Activity
+48,2015,VT,Sporadic
+48,2015,NH,Local Activity
+48,2015,ME,Sporadic
+47,2015,AK,Sporadic
+47,2015,OR,Local Activity
+47,2015,WA,Sporadic
+47,2015,ID,Sporadic
+47,2015,GU,Widespread
+47,2015,HI,Sporadic
+47,2015,CA,Sporadic
+47,2015,NV,Sporadic
+47,2015,AZ,Sporadic
+47,2015,UT,Local Activity
+47,2015,CO,Sporadic
+47,2015,WY,Sporadic
+47,2015,MT,Sporadic
+47,2015,SD,Sporadic
+47,2015,ND,Sporadic
+47,2015,KS,Sporadic
+47,2015,NE,Sporadic
+47,2015,MO,Sporadic
+47,2015,IA,Local Activity
+47,2015,NM,Sporadic
+47,2015,TX,Sporadic
+47,2015,OK,Sporadic
+47,2015,LA,Sporadic
+47,2015,AR,Sporadic
+47,2015,MN,Sporadic
+47,2015,WI,Sporadic
+47,2015,MI,Sporadic
+47,2015,IL,Sporadic
+47,2015,IN,Sporadic
+47,2015,OH,Sporadic
+47,2015,MS,No Activity
+47,2015,AL,No Activity
+47,2015,TN,No Activity
+47,2015,KY,Sporadic
+47,2015,FL,Sporadic
+47,2015,GA,Sporadic
+47,2015,SC,Sporadic
+47,2015,NC,Local Activity
+47,2015,WV,Sporadic
+47,2015,VA,No Activity
+47,2015,DC,Sporadic
+47,2015,MD,Local Activity
+47,2015,DE,Sporadic
+47,2015,PA,Sporadic
+47,2015,VI,Sporadic
+47,2015,PR,Regional
+47,2015,NJ,Sporadic
+47,2015,NY,Sporadic
+47,2015,CT,Sporadic
+47,2015,RI,No Activity
+47,2015,MA,Local Activity
+47,2015,VT,Sporadic
+47,2015,NH,Local Activity
+47,2015,ME,Sporadic
+46,2015,AK,Sporadic
+46,2015,OR,Sporadic
+46,2015,WA,Sporadic
+46,2015,ID,Sporadic
+46,2015,GU,Widespread
+46,2015,HI,Local Activity
+46,2015,CA,Sporadic
+46,2015,NV,Sporadic
+46,2015,AZ,Sporadic
+46,2015,UT,Local Activity
+46,2015,CO,Sporadic
+46,2015,WY,Sporadic
+46,2015,MT,Sporadic
+46,2015,SD,Sporadic
+46,2015,ND,Sporadic
+46,2015,KS,No Activity
+46,2015,NE,Sporadic
+46,2015,MO,Sporadic
+46,2015,IA,Local Activity
+46,2015,NM,Sporadic
+46,2015,TX,Sporadic
+46,2015,OK,Sporadic
+46,2015,LA,Sporadic
+46,2015,AR,Sporadic
+46,2015,MN,Sporadic
+46,2015,WI,Sporadic
+46,2015,MI,Sporadic
+46,2015,IL,Sporadic
+46,2015,IN,Sporadic
+46,2015,OH,Sporadic
+46,2015,MS,No Activity
+46,2015,AL,No Activity
+46,2015,TN,Sporadic
+46,2015,KY,Local Activity
+46,2015,FL,Sporadic
+46,2015,GA,Sporadic
+46,2015,SC,Sporadic
+46,2015,NC,Sporadic
+46,2015,WV,Sporadic
+46,2015,VA,Sporadic
+46,2015,DC,No Activity
+46,2015,MD,No Activity
+46,2015,DE,No Activity
+46,2015,PA,Sporadic
+46,2015,VI,No Activity
+46,2015,PR,Regional
+46,2015,NJ,Sporadic
+46,2015,NY,Sporadic
+46,2015,CT,Sporadic
+46,2015,RI,No Activity
+46,2015,MA,Sporadic
+46,2015,VT,Sporadic
+46,2015,NH,Local Activity
+46,2015,ME,Sporadic
+45,2015,AK,Sporadic
+45,2015,OR,Local Activity
+45,2015,WA,Sporadic
+45,2015,ID,Sporadic
+45,2015,GU,Widespread
+45,2015,HI,Local Activity
+45,2015,CA,Sporadic
+45,2015,NV,Sporadic
+45,2015,AZ,Sporadic
+45,2015,UT,Sporadic
+45,2015,CO,Sporadic
+45,2015,WY,Sporadic
+45,2015,MT,Sporadic
+45,2015,SD,Sporadic
+45,2015,ND,Sporadic
+45,2015,KS,No Activity
+45,2015,NE,Sporadic
+45,2015,MO,Sporadic
+45,2015,IA,Local Activity
+45,2015,NM,Sporadic
+45,2015,TX,Sporadic
+45,2015,OK,Sporadic
+45,2015,LA,Sporadic
+45,2015,AR,Sporadic
+45,2015,MN,Sporadic
+45,2015,WI,Sporadic
+45,2015,MI,Sporadic
+45,2015,IL,Sporadic
+45,2015,IN,Sporadic
+45,2015,OH,Sporadic
+45,2015,MS,No Activity
+45,2015,AL,No Activity
+45,2015,TN,Sporadic
+45,2015,KY,Sporadic
+45,2015,FL,Sporadic
+45,2015,GA,Sporadic
+45,2015,SC,Sporadic
+45,2015,NC,Sporadic
+45,2015,WV,Sporadic
+45,2015,VA,No Activity
+45,2015,DC,No Activity
+45,2015,MD,Sporadic
+45,2015,DE,No Activity
+45,2015,PA,Sporadic
+45,2015,VI,No Activity
+45,2015,PR,Regional
+45,2015,NJ,Sporadic
+45,2015,NY,Sporadic
+45,2015,CT,Sporadic
+45,2015,RI,No Activity
+45,2015,MA,Sporadic
+45,2015,VT,Sporadic
+45,2015,NH,Local Activity
+45,2015,ME,Sporadic
+44,2015,AK,Sporadic
+44,2015,OR,Local Activity
+44,2015,WA,Sporadic
+44,2015,ID,No Activity
+44,2015,GU,Widespread
+44,2015,HI,Local Activity
+44,2015,CA,Sporadic
+44,2015,NV,Sporadic
+44,2015,AZ,Sporadic
+44,2015,UT,Sporadic
+44,2015,CO,Sporadic
+44,2015,WY,Sporadic
+44,2015,MT,Sporadic
+44,2015,SD,Sporadic
+44,2015,ND,Sporadic
+44,2015,KS,No Activity
+44,2015,NE,Sporadic
+44,2015,MO,Sporadic
+44,2015,IA,Local Activity
+44,2015,NM,Sporadic
+44,2015,TX,Sporadic
+44,2015,OK,Sporadic
+44,2015,LA,Sporadic
+44,2015,AR,Sporadic
+44,2015,MN,Sporadic
+44,2015,WI,Sporadic
+44,2015,MI,Sporadic
+44,2015,IL,Sporadic
+44,2015,IN,No Activity
+44,2015,OH,Sporadic
+44,2015,MS,No Activity
+44,2015,AL,Sporadic
+44,2015,TN,No Activity
+44,2015,KY,Sporadic
+44,2015,FL,Sporadic
+44,2015,GA,Sporadic
+44,2015,SC,Sporadic
+44,2015,NC,Sporadic
+44,2015,WV,Sporadic
+44,2015,VA,No Activity
+44,2015,DC,Sporadic
+44,2015,MD,Sporadic
+44,2015,DE,Sporadic
+44,2015,PA,Sporadic
+44,2015,VI,No Activity
+44,2015,PR,Regional
+44,2015,NJ,Sporadic
+44,2015,NY,Sporadic
+44,2015,CT,Sporadic
+44,2015,RI,No Activity
+44,2015,MA,Local Activity
+44,2015,VT,Sporadic
+44,2015,NH,Sporadic
+44,2015,ME,Sporadic
+43,2015,AK,Sporadic
+43,2015,OR,Sporadic
+43,2015,WA,Sporadic
+43,2015,ID,No Activity
+43,2015,GU,Regional
+43,2015,HI,Sporadic
+43,2015,CA,Sporadic
+43,2015,NV,Sporadic
+43,2015,AZ,Sporadic
+43,2015,UT,Sporadic
+43,2015,CO,Sporadic
+43,2015,WY,Sporadic
+43,2015,MT,Sporadic
+43,2015,SD,Sporadic
+43,2015,ND,Sporadic
+43,2015,KS,No Activity
+43,2015,NE,Sporadic
+43,2015,MO,Sporadic
+43,2015,IA,Local Activity
+43,2015,NM,Sporadic
+43,2015,TX,Sporadic
+43,2015,OK,Sporadic
+43,2015,LA,Sporadic
+43,2015,AR,Sporadic
+43,2015,MN,Sporadic
+43,2015,WI,Sporadic
+43,2015,MI,Sporadic
+43,2015,IL,No Activity
+43,2015,IN,Sporadic
+43,2015,OH,Sporadic
+43,2015,MS,No Activity
+43,2015,AL,Sporadic
+43,2015,TN,Sporadic
+43,2015,KY,Sporadic
+43,2015,FL,Sporadic
+43,2015,GA,Local Activity
+43,2015,SC,Sporadic
+43,2015,NC,Sporadic
+43,2015,WV,Sporadic
+43,2015,VA,No Activity
+43,2015,DC,No Activity
+43,2015,MD,No Activity
+43,2015,DE,No Activity
+43,2015,PA,Sporadic
+43,2015,VI,No Activity
+43,2015,PR,Sporadic
+43,2015,NJ,Sporadic
+43,2015,NY,Sporadic
+43,2015,CT,Sporadic
+43,2015,RI,Sporadic
+43,2015,MA,Sporadic
+43,2015,VT,Sporadic
+43,2015,NH,No Activity
+43,2015,ME,Sporadic
+42,2015,AK,Sporadic
+42,2015,OR,Local Activity
+42,2015,WA,Sporadic
+42,2015,ID,Sporadic
+42,2015,GU,Regional
+42,2015,HI,Regional
+42,2015,CA,Sporadic
+42,2015,NV,Sporadic
+42,2015,AZ,Sporadic
+42,2015,UT,Sporadic
+42,2015,CO,Sporadic
+42,2015,WY,Sporadic
+42,2015,MT,Sporadic
+42,2015,SD,No Activity
+42,2015,ND,Sporadic
+42,2015,KS,No Activity
+42,2015,NE,Sporadic
+42,2015,MO,Sporadic
+42,2015,IA,Local Activity
+42,2015,NM,Sporadic
+42,2015,TX,Sporadic
+42,2015,OK,Local Activity
+42,2015,LA,Sporadic
+42,2015,AR,Sporadic
+42,2015,MN,Sporadic
+42,2015,WI,Sporadic
+42,2015,MI,Sporadic
+42,2015,IL,No Activity
+42,2015,IN,Sporadic
+42,2015,OH,Sporadic
+42,2015,MS,No Activity
+42,2015,AL,Local Activity
+42,2015,TN,Sporadic
+42,2015,KY,Sporadic
+42,2015,FL,Sporadic
+42,2015,GA,Sporadic
+42,2015,SC,Local Activity
+42,2015,NC,Sporadic
+42,2015,WV,Sporadic
+42,2015,VA,No Activity
+42,2015,DC,No Activity
+42,2015,MD,No Activity
+42,2015,DE,Sporadic
+42,2015,PA,No Activity
+42,2015,VI,No Activity
+42,2015,PR,Sporadic
+42,2015,NJ,Sporadic
+42,2015,NY,Sporadic
+42,2015,CT,Sporadic
+42,2015,RI,Sporadic
+42,2015,MA,Local Activity
+42,2015,VT,Sporadic
+42,2015,NH,No Activity
+42,2015,ME,Sporadic
+41,2015,AK,Sporadic
+41,2015,OR,Local Activity
+41,2015,WA,Sporadic
+41,2015,ID,No Activity
+41,2015,GU,Widespread
+41,2015,HI,Local Activity
+41,2015,CA,Sporadic
+41,2015,NV,No Activity
+41,2015,AZ,Sporadic
+41,2015,UT,Sporadic
+41,2015,CO,No Activity
+41,2015,WY,Sporadic
+41,2015,MT,Sporadic
+41,2015,SD,Sporadic
+41,2015,ND,Sporadic
+41,2015,KS,No Activity
+41,2015,NE,No Activity
+41,2015,MO,Sporadic
+41,2015,IA,Sporadic
+41,2015,NM,No Activity
+41,2015,TX,Sporadic
+41,2015,OK,Local Activity
+41,2015,LA,Sporadic
+41,2015,AR,Sporadic
+41,2015,MN,Sporadic
+41,2015,WI,Sporadic
+41,2015,MI,Sporadic
+41,2015,IL,No Activity
+41,2015,IN,No Activity
+41,2015,OH,Sporadic
+41,2015,MS,No Activity
+41,2015,AL,No Activity
+41,2015,TN,No Activity
+41,2015,KY,Sporadic
+41,2015,FL,Sporadic
+41,2015,GA,Sporadic
+41,2015,SC,Sporadic
+41,2015,NC,No Activity
+41,2015,WV,Sporadic
+41,2015,VA,No Activity
+41,2015,DC,No Activity
+41,2015,MD,No Activity
+41,2015,DE,Sporadic
+41,2015,PA,No Activity
+41,2015,VI,No Activity
+41,2015,PR,Sporadic
+41,2015,NJ,No Activity
+41,2015,NY,Sporadic
+41,2015,CT,Sporadic
+41,2015,RI,No Activity
+41,2015,MA,Local Activity
+41,2015,VT,Sporadic
+41,2015,NH,Sporadic
+41,2015,ME,Sporadic
+40,2015,AK,Sporadic
+40,2015,OR,Sporadic
+40,2015,WA,Sporadic
+40,2015,ID,No Activity
+40,2015,GU,Widespread
+40,2015,HI,Regional
+40,2015,CA,Sporadic
+40,2015,NV,No Activity
+40,2015,AZ,Sporadic
+40,2015,UT,Sporadic
+40,2015,CO,No Activity
+40,2015,WY,Sporadic
+40,2015,MT,Sporadic
+40,2015,SD,No Activity
+40,2015,ND,Sporadic
+40,2015,KS,No Activity
+40,2015,NE,No Activity
+40,2015,MO,Sporadic
+40,2015,IA,No Activity
+40,2015,NM,No Activity
+40,2015,TX,Sporadic
+40,2015,OK,Local Activity
+40,2015,LA,Sporadic
+40,2015,AR,No Activity
+40,2015,MN,Sporadic
+40,2015,WI,Sporadic
+40,2015,MI,Sporadic
+40,2015,IL,No Activity
+40,2015,IN,No Activity
+40,2015,OH,Sporadic
+40,2015,MS,No Activity
+40,2015,AL,No Activity
+40,2015,TN,No Activity
+40,2015,KY,Sporadic
+40,2015,FL,Sporadic
+40,2015,GA,Sporadic
+40,2015,SC,Sporadic
+40,2015,NC,Sporadic
+40,2015,WV,Sporadic
+40,2015,VA,No Activity
+40,2015,DC,No Report
+40,2015,MD,No Activity
+40,2015,DE,No Activity
+40,2015,PA,No Activity
+40,2015,VI,No Activity
+40,2015,PR,Sporadic
+40,2015,NJ,No Activity
+40,2015,NY,Sporadic
+40,2015,CT,Sporadic
+40,2015,RI,No Activity
+40,2015,MA,Sporadic
+40,2015,VT,Sporadic
+40,2015,NH,No Activity
+40,2015,ME,Sporadic

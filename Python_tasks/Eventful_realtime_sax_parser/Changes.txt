@@ -1,0 +1,3 @@
+1. Used SAX instead of DOM for better performance
+2. Used metod event/search instead of venue/get
+3. Added sorting by date of output results
